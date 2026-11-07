@@ -1,0 +1,13 @@
+metric,value
+Number of Monte Carlo runs,1000.0
+Days per run,365.0
+Starting fullness,0.0
+Collection threshold,8.0
+Base random seed,42.0
+Mean collections per year,62.836
+Median collections per year,63.0
+Minimum collections,48.0
+Maximum collections,78.0
+Mean days at state 10,4.997
+Mean pre-collection fullness,3.1620164383561646
+Mean fullness when collected,8.15904571469421
